@@ -1,7 +1,7 @@
 # Báo Cáo Lab 7: Embedding & Vector Store
 
 **Họ tên:** [Trần Long Hải]
-**Nhóm:** [Tên nhóm]
+**Nhóm:** [Nhóm 61]
 **Ngày:** [10/04/2026]
 
 ---
